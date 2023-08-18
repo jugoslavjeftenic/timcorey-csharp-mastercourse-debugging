@@ -1,4 +1,4 @@
-﻿namespace T12_01_UsingBreakpoints
+﻿namespace T12_01_01_UsingBreakpoints
 {
     internal class Program
     {
@@ -8,7 +8,7 @@
             {
                 Console.WriteLine($"The value of i is {i}.");
 
-                for (int j = 0; j < 10; j++)
+                for (int j = 0; j < 10; i++)
                 {
                     Console.WriteLine($"The value of j is {j}.");
                 }
