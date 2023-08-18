@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_01_02_HomeworkStepThrou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_02_01_HandlingExceptions", "T12_02_01_HandlingExceptions\T12_02_01_HandlingExceptions.csproj", "{24DDC236-2542-4E0D-A072-4B9347FBED8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_02_02_HomeworkHandlingExceptions", "T12_02_02_HomeworkHandlingExceptions\T12_02_02_HomeworkHandlingExceptions.csproj", "{B6AE8763-3F62-40E4-B713-6B87857D1FE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{24DDC236-2542-4E0D-A072-4B9347FBED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DDC236-2542-4E0D-A072-4B9347FBED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DDC236-2542-4E0D-A072-4B9347FBED8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
