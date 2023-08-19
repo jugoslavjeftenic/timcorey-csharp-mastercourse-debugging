@@ -1,4 +1,4 @@
-﻿namespace T12_01_02_HomeworkStepThroughTheForLoop
+﻿namespace T12_01_02_HomeworkUsingBreakpoints
 {
     internal class Program
     {
