@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_02_02_HomeworkHandlingE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_01_01_AdvancedExceptions", "T13_01_01_AdvancedExceptions\T13_01_01_AdvancedExceptions.csproj", "{9784DBB0-F06A-46B2-94F3-35E7918B1E81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_01_02_HomeworkAdvancedExceptions", "T13_01_02_HomeworkAdvancedExceptions\T13_01_02_HomeworkAdvancedExceptions.csproj", "{91223D79-060F-4BAE-967E-7FE58B5A3206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91223D79-060F-4BAE-967E-7FE58B5A3206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91223D79-060F-4BAE-967E-7FE58B5A3206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91223D79-060F-4BAE-967E-7FE58B5A3206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91223D79-060F-4BAE-967E-7FE58B5A3206}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
