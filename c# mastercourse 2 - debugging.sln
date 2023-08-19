@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_01_01_UsingBreakpoints", "T12_01_01_UsingBreakpoints\T12_01_01_UsingBreakpoints.csproj", "{B661EF0C-543F-40BF-9B55-7D254B443E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_01_01_UsingBreakpoints", "T12_01_01_UsingBreakpoints\T12_01_01_UsingBreakpoints.csproj", "{B661EF0C-543F-40BF-9B55-7D254B443E8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_01_02_HomeworkStepThroughTheForLoop", "T12_01_02_HomeworkStepThroughTheForLoop\T12_01_02_HomeworkStepThroughTheForLoop.csproj", "{0497965F-F50F-40FA-9203-9355721C08F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_01_02_HomeworkStepThroughTheForLoop", "T12_01_02_HomeworkStepThroughTheForLoop\T12_01_02_HomeworkStepThroughTheForLoop.csproj", "{0497965F-F50F-40FA-9203-9355721C08F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_02_01_HandlingExceptions", "T12_02_01_HandlingExceptions\T12_02_01_HandlingExceptions.csproj", "{24DDC236-2542-4E0D-A072-4B9347FBED8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_02_01_HandlingExceptions", "T12_02_01_HandlingExceptions\T12_02_01_HandlingExceptions.csproj", "{24DDC236-2542-4E0D-A072-4B9347FBED8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_02_02_HomeworkHandlingExceptions", "T12_02_02_HomeworkHandlingExceptions\T12_02_02_HomeworkHandlingExceptions.csproj", "{B6AE8763-3F62-40E4-B713-6B87857D1FE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_02_02_HomeworkHandlingExceptions", "T12_02_02_HomeworkHandlingExceptions\T12_02_02_HomeworkHandlingExceptions.csproj", "{B6AE8763-3F62-40E4-B713-6B87857D1FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_01_01_AdvancedExceptions", "T13_01_01_AdvancedExceptions\T13_01_01_AdvancedExceptions.csproj", "{9784DBB0-F06A-46B2-94F3-35E7918B1E81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6AE8763-3F62-40E4-B713-6B87857D1FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9784DBB0-F06A-46B2-94F3-35E7918B1E81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
