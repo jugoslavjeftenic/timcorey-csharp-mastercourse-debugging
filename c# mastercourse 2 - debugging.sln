@@ -9,15 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_02_01_HandlingException
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_02_02_HomeworkHandlingExceptions", "T12_02_02_HomeworkHandlingExceptions\T12_02_02_HomeworkHandlingExceptions.csproj", "{B6AE8763-3F62-40E4-B713-6B87857D1FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_01_01_AdvancedExceptions", "T13_01_01_AdvancedExceptions\T13_01_01_AdvancedExceptions.csproj", "{9784DBB0-F06A-46B2-94F3-35E7918B1E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T13_01_01_AdvancedExceptions", "T13_01_01_AdvancedExceptions\T13_01_01_AdvancedExceptions.csproj", "{9784DBB0-F06A-46B2-94F3-35E7918B1E81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_01_02_HomeworkAdvancedExceptions", "T13_01_02_HomeworkAdvancedExceptions\T13_01_02_HomeworkAdvancedExceptions.csproj", "{91223D79-060F-4BAE-967E-7FE58B5A3206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T13_01_02_HomeworkAdvancedExceptions", "T13_01_02_HomeworkAdvancedExceptions\T13_01_02_HomeworkAdvancedExceptions.csproj", "{91223D79-060F-4BAE-967E-7FE58B5A3206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_01_02_HomeworkUsingBreakpoints", "T12_01_02_HomeworkUsingBreakpoints\T12_01_02_HomeworkUsingBreakpoints.csproj", "{1F40024D-16BB-4CDD-96E6-61B39CF17E44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12_01_02_HomeworkUsingBreakpoints", "T12_01_02_HomeworkUsingBreakpoints\T12_01_02_HomeworkUsingBreakpoints.csproj", "{1F40024D-16BB-4CDD-96E6-61B39CF17E44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_02_01_AdvancedBreakpoints", "T13_02_01_AdvancedBreakpoints\T13_02_01_AdvancedBreakpoints.csproj", "{C1017FBB-083C-409F-A735-9F470F228BEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T13_02_01_AdvancedBreakpoints", "T13_02_01_AdvancedBreakpoints\T13_02_01_AdvancedBreakpoints.csproj", "{C1017FBB-083C-409F-A735-9F470F228BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_02_02_HomeworkAdvancedBreakpoints", "T13_02_02_HomeworkAdvancedBreakpoints\T13_02_02_HomeworkAdvancedBreakpoints.csproj", "{B5BDAB64-701C-4D77-9BAD-9A15EB74E1D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T13_02_02_HomeworkAdvancedBreakpoints", "T13_02_02_HomeworkAdvancedBreakpoints\T13_02_02_HomeworkAdvancedBreakpoints.csproj", "{B5BDAB64-701C-4D77-9BAD-9A15EB74E1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14_DebuggingMiniProject", "T14_DebuggingMiniProject\T14_DebuggingMiniProject.csproj", "{3197A6FA-7093-43B7-A1A1-51FB581BFF0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B5BDAB64-701C-4D77-9BAD-9A15EB74E1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5BDAB64-701C-4D77-9BAD-9A15EB74E1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5BDAB64-701C-4D77-9BAD-9A15EB74E1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3197A6FA-7093-43B7-A1A1-51FB581BFF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3197A6FA-7093-43B7-A1A1-51FB581BFF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3197A6FA-7093-43B7-A1A1-51FB581BFF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3197A6FA-7093-43B7-A1A1-51FB581BFF0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
